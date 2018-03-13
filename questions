@@ -1,0 +1,30 @@
+2. Need this file which is in temp directory -> applicationflow_in.clean. Reference is in _parse_external_applicationflow_in_file.pl
+
+3. What the complete command line arguments that the below bat files will be executed.
+I need the complete command line argument for each of the 7 files said below.If there are any input files sent
+as a part of command line, I need those files.
+
+ /BIN/Endpoint.bat
+ /BIN/Load_AppFlowData.bat
+ /BIN/load_data_set.bat
+ /BIN/Load_External_AppDataFlow.bat
+ /BIN/Load_External_InterfacesDataFlow.bat
+ /BIN/Load_InterfaceDataFlow.bat
+ /BIN/run_test.bat
+
+
+
+4. Which all commands will be run in linux and which all be in python
+
+
+Endpoint.bat                            This will call ITP_EP.pl - iperf execution module
+load_data_set.bat                       This calls ITP_MC.pl
+Load_AppFlowData.bat                    This will call _parse_external_applicationflow_in_file.pl
+Load_External_AppDataFlow.bat           This will call _parse_external_interface_file.pl
+Load_External_InterfacesDataFlow.bat
+Load_InterfaceDataFlow.bat
+run_test.bat
+
+
+5. Which is the server and which is the client
+

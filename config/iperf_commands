@@ -1,0 +1,7 @@
+
+
+# Client - TCP
+iperf -c localhost -p 1234 -t 5
+
+# Server - TCP
+iperf  -s -p 1234 -t 5 -P 20 >> iperf.log

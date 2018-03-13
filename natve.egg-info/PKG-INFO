@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: natve
+Version: 3.0
+Summary: Network Application Tracking and Validation Engine (NATVE)
+Home-page: natve.com
+Author: chin
+Author-email: chinnasamyad@gmail.com
+License: Copyright
+Description-Content-Type: UNKNOWN
+Description: Network Application Tracking and Validation Engine (NATVE)
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5

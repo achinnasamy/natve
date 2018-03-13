@@ -1,0 +1,5 @@
+
+
+
+class EndPointDTO:
+    pass
